@@ -21,11 +21,12 @@ Highly reccomend taking Discrete Structures and Data Structures/Algorithms to se
 ### College
 I failed miserably at college admission so I can't really help you here. While companies like prestigious colleges, there are a million other ways to demonstrate your ability. 
 ## Research
-Research is a good way to boost your resume and give you some academic experience: <br>
+Research is a good way to boost your resume and give you some academic experience <br>
 There are usually two ways research is done: <br>
 1. Summer Programs - Applying to certain summer programs will help you with your research and hopefully get you published
 2. Working with Professors - Emailing professors you're interested in and working with them - Do your own research on how to do this
 ## Internships
+Internships are a great way to boost your resume and gain experience in your field. You can cold email local firms as well as apply on their websites in hopes of an offer. It might sound tedious but it's definitely worth it. Alternatively, if you're feeling competitive, summer programs offer internships (oftentimes with money!) that you can apply to. 
 ## Summer Programs
 ### Preface
 I didn't even know that these kinds of summer programs existed until my junior year, after the due dates. Even then, most of these were relatively hidden from me. The selectivity of these programs as well as the application process would've been great practice for my college applications. However, I was pretty scared of applying due to how selective they were. I decided to apply for some my senior year and got in. My advice would be to just apply.
