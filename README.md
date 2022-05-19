@@ -5,7 +5,7 @@
 |[Academics](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#academics)|
 |[Research](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#research)|
 |[Internships](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#internships)|
-|[Summer Programs](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#extracurriculars)|
+|[Summer Programs](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#summer-programs)|
 ## Extracurriculars
 1. **Competitive Programming** - USACO, Codeforces, Google Kickstart
 2. **Capture the Flags** - Use https://ctftime.org to find competitions - PicoCTF is a highschool only CTF hosted by CMU
