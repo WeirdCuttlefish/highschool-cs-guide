@@ -14,9 +14,6 @@ With the amount of computer science opportunities for high schoolers out there, 
 3. **Competitive Math** - AMC, ARML, AIME, USAMO, Math League, etc. 
 4. **International Science and Engineerin Fair (ISEF)** - Science fair
 5. **Open source contribution** - Super prestigious to commit on a large repository. I reccomend checking out GSoC or some other "open-source mentorship" program to help you begin. 
-6. **Research** - Own section
-7. **Internships** - Own section
-8. **Summer Programs** - Own section
 ## Academics
 ### Classwork
 If your school offers any of the AP Computer Science courses, take it. I highly reccomend taking the most advanced math course you can. Email your counselors about dual enrollment possibilities. The earlier and more you take dual enrollment the faster you'll be able to go into the industry. <br><br>
