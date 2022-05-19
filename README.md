@@ -12,6 +12,8 @@ If your school offers any of the AP Computer Science courses, take it. I highly 
 ### College
 I don't feel qualified to help you here. I reccomend you do your research elsewhere. 
 ## Summer Programs
+### Preface
+I feel like these programs are super scary with how selective they are. At least that's how I felt. I decided to apply for one senior year and got in so it wasn't that bad I guess. <br> These programs all have varying due dates based on the year so I've linked their websites and you can do your own research. 
 ### All Years
 1. [**Google Summer of Code**](https://summerofcode.withgoogle.com/) - GSoC is a program designed to introduce contributing to open source projects - Online
 2. [**NASA**](https://intern.nasa.gov/) - Nasa Internship - Online and in-person options
@@ -19,6 +21,8 @@ I don't feel qualified to help you here. I reccomend you do your research elsewh
 4. [**Simon's Summer Research Program**](https://www.stonybrook.edu/simons/) - Very selective 4 week research program at Stony Brook w/ Stipend - In-person
 5. [**Anson L. Scholars Program**](https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/) - 7 week research program at Texas Tech for grades 11-12 w/ $500 meal card and $750 stipend - In-person
 6. [**Spark Summer Internship Program (SIP)**](https://www.sparksip.org/) - 3 month internship w/ up to $500 stipend - Online and in-person options
+7. [**Research Science Institution (RSI)**](https://www.cee.org/programs/research-science-institute) - 5 week internship hosted by MIT (super prestigious) - Online
+8. [**National Institute of Health Summer Internship Program**](https://www.training.nih.gov/programs/hs-sip) - Internship for ages 17+ high schoolers for BIOMEDICAL research (super prestigious) - In-person (but w/ COVID has virtual options)
 ### Precollege
 1. [**Google Computer Science Summer Institute (CSSI)**](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/) - 3 week introduction to computer science w/ $1500 stipend - Online<br>
 2. [**Amazon Future Engineer**](https://www.amazonfutureengineer.com/) - $40,000 scholarship and paid internship at Amazon <br>
