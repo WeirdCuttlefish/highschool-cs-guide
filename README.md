@@ -7,7 +7,10 @@
 5. **Research** - Do research + get publications - will add a separate section for this
 6. **Internships** - Intern at company - will add a separate section for this
 ## Academics
-I highly reccomend taking either of the AP Computer Science courses if it's offered at your school. If your school offers dual enrollment, take it. You will save money as well as improve your application and speed up your career. If you can't do this, there are tons of online programs offered by MIT, Harvard, etc. which you can use to learn. 
+### Classwork
+If your school offers any of the AP Computer Science courses, take it. I highly reccomend taking the most advanced math course you can. Email your counselors about dual enrollment possibilities. The earlier and more you take dual enrollment the faster you'll be able to go into the industry.
+### College
+I don't feel qualified to help you here. I reccomend you do your research elsewhere. 
 ## Summer Programs
 ### All Years
 1. [**Google Summer of Code**](https://summerofcode.withgoogle.com/) - GSoC is a program designed to introduce contributing to open source projects
