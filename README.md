@@ -1,11 +1,11 @@
 # Highschool CS Guide
 |**Table of Contents**|
 |---------------------|
-|[Extracurriculars]()|
-|[Academics]()|
-|[Research]()|
-|[Internships]()|
-|[Summer Programs]()|
+|[Extracurriculars](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#extracurriculars)|
+|[Academics](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#academics)|
+|[Research](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#research)|
+|[Internships](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#internships)|
+|[Summer Programs](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#extracurriculars)|
 ## Extracurriculars
 1. **Competitive Programming** - USACO, Codeforces, Google Kickstart
 2. **Capture the Flags** - Use https://ctftime.org to find competitions - PicoCTF is a highschool only CTF hosted by CMU
