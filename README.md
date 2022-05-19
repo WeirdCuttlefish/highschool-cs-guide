@@ -10,7 +10,13 @@
 ### Classwork
 If your school offers any of the AP Computer Science courses, take it. I highly reccomend taking the most advanced math course you can. Email your counselors about dual enrollment possibilities. The earlier and more you take dual enrollment the faster you'll be able to go into the industry.
 ### College
-I don't feel qualified to help you here. I reccomend you do your research elsewhere. 
+I failed miserably at college admission so I can't really help you here. 
+## Research
+Research is a good way to boost your resume and give you some academic experience: <br>
+There are usually two ways research is done: <br>
+1. Summer Programs - Applying to certain summer programs will help you with your research and hopefully get you published
+2. Working with Professors - Emailing professors you're interested in and working with them - Do your own research on how to do this
+## Internships
 ## Summer Programs
 ### Preface
 I feel like these programs are super scary with how selective they are. At least that's how I felt. I decided to apply for one senior year and got in so it wasn't that bad I guess. <br> These programs all have varying due dates based on the year so I've linked their websites and you can do your own research. 
