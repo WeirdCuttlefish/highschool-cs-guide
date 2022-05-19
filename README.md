@@ -1,6 +1,10 @@
 # Highschool CS Guide
 ## Extracurriculars
-
+1. **Competitive Programming** - USACO, Codeforces, Google Kickstart
+2. **Capture the Flags** - Use https://ctftime.org to find competitions - PicoCTF is a highschool only CTF hosted by CMU
+3. **Competitive Math** - AMC, ARML, AIME, USAMO, Math League, etc. 
+4. **International Science and Engineerin Fair (ISEF)** - Science fair, super prestigious
+5. **Research** - Do research + get publications - will add a separate section for this
 ## Academics
 I highly reccomend taking either of the AP Computer Science courses if it's offered at your school. If your school offers dual enrollment, take it. You will save money as well as improve your application and speed up your career. If you can't do this, there are tons of online programs offered by MIT, Harvard, etc. which you can use to learn. 
 ## Summer Programs
