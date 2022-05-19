@@ -1,4 +1,11 @@
 # Highschool CS Guide
+|**Table of Contents**|
+|---------------------|
+|Extracurriculars|
+|Academics|
+|Research|
+|Internships|
+|Summer Programs|
 ## Extracurriculars
 1. **Competitive Programming** - USACO, Codeforces, Google Kickstart
 2. **Capture the Flags** - Use https://ctftime.org to find competitions - PicoCTF is a highschool only CTF hosted by CMU
