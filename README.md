@@ -29,6 +29,7 @@ I feel like these programs are super scary with how selective they are. At least
 6. [**Spark Summer Internship Program (SIP)**](https://www.sparksip.org/) - 3 month internship w/ up to $500 stipend - Online and in-person options
 7. [**Research Science Institution (RSI)**](https://www.cee.org/programs/research-science-institute) - 5 week internship hosted by MIT (super prestigious) - Online
 8. [**National Institute of Health Summer Internship Program**](https://www.training.nih.gov/programs/hs-sip) - Internship for ages 17+ high schoolers for BIOMEDICAL research (super prestigious) - In-person (but w/ COVID has virtual options)
+9. [**UIowa Secondary Student Training Program**](https://catalog.registrar.uiowa.edu/university-college/secondary-student-training-program/) - Multi-week resedential summer research program w/ FEE - In-person
 ### Precollege
 1. [**Google Computer Science Summer Institute (CSSI)**](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/) - 3 week introduction to computer science w/ $1500 stipend - Online<br>
 2. [**Amazon Future Engineer**](https://www.amazonfutureengineer.com/) - $40,000 scholarship and paid internship at Amazon <br>
