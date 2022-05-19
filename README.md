@@ -1,4 +1,6 @@
 # Highschool CS Guide
+### Introduction
+With the amount of computer science opportunities for high schoolers out there, it's really odd I've barely heard of any. I made this to help people who are in similar situations as I was. Good luck to you all!
 |**Table of Contents**|
 |---------------------|
 |[Extracurriculars](https://github.com/WeirdCuttlefish/highschool-cs-guide/blob/main/README.md#extracurriculars)|
@@ -17,7 +19,7 @@
 8. **Summer Programs** - Own section
 ## Academics
 ### Classwork
-If your school offers any of the AP Computer Science courses, take it. I highly reccomend taking the most advanced math course you can. Email your counselors about dual enrollment possibilities. The earlier and more you take dual enrollment the faster you'll be able to go into the industry. <br>
+If your school offers any of the AP Computer Science courses, take it. I highly reccomend taking the most advanced math course you can. Email your counselors about dual enrollment possibilities. The earlier and more you take dual enrollment the faster you'll be able to go into the industry. <br><br>
 Highly reccomend taking Discrete Structures and Data Structures/Algorithms to see if CS is your thing. (Even if you struggle with them CS can still be your thing)
 ### College
 I failed miserably at college admission so I can't really help you here. While companies like prestigious colleges, there are a million other ways to demonstrate your ability. 
