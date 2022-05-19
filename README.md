@@ -19,7 +19,7 @@
 ### Classwork
 If your school offers any of the AP Computer Science courses, take it. I highly reccomend taking the most advanced math course you can. Email your counselors about dual enrollment possibilities. The earlier and more you take dual enrollment the faster you'll be able to go into the industry.
 ### College
-I failed miserably at college admission so I can't really help you here. 
+I failed miserably at college admission so I can't really help you here. While companies like prestigious colleges, there are a million other ways to demonstrate your ability. 
 ## Research
 Research is a good way to boost your resume and give you some academic experience: <br>
 There are usually two ways research is done: <br>
