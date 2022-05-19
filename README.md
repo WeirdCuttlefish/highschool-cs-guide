@@ -16,6 +16,8 @@ I don't feel qualified to help you here. I reccomend you do your research elsewh
 1. [**Google Summer of Code**](https://summerofcode.withgoogle.com/) - GSoC is a program designed to introduce contributing to open source projects - Online
 2. [**NASA**](https://intern.nasa.gov/) - Nasa Internship - Online and in-person options
 3. [**Girls Who Code Summer Immersion Program**](https://girlswhocode.com/programs/summer-immersion-program) - 2 week program for grades 9-11 w/ $500 grants - Online
+4. [**Simon's Summer Research Program**](https://www.stonybrook.edu/simons/) - Very selective 4 week research program at Stony Brook w/ Stipend - In-person
+5. [**Anson L. Scholars Program**](https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/) - 7 week research program at Texas Tech for grades 11-12 w/ $500 meal card and $750 stipend - In-person
 ### Precollege
 1. [**Google Computer Science Summer Institute (CSSI)**](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/) - 3 week introduction to computer science w/ $1500 stipend - Online<br>
 2. [**Amazon Future Engineer**](https://www.amazonfutureengineer.com/) - $40,000 scholarship and paid internship at Amazon <br>
