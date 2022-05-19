@@ -1,18 +1,19 @@
 # Highschool CS Guide
 |**Table of Contents**|
 |---------------------|
-|Extracurriculars|
-|Academics|
-|Research|
-|Internships|
-|Summer Programs|
+|[Extracurriculars]()|
+|[Academics]()|
+|[Research]()|
+|[Internships]()|
+|[Summer Programs]()|
 ## Extracurriculars
 1. **Competitive Programming** - USACO, Codeforces, Google Kickstart
 2. **Capture the Flags** - Use https://ctftime.org to find competitions - PicoCTF is a highschool only CTF hosted by CMU
 3. **Competitive Math** - AMC, ARML, AIME, USAMO, Math League, etc. 
 4. **International Science and Engineerin Fair (ISEF)** - Science fair, super prestigious
-5. **Research** - Do research + get publications - will add a separate section for this
-6. **Internships** - Intern at company - will add a separate section for this
+5. **Open source contribution** - It's incredibly hard to get a commit, but if you can do it it's so big. I reccomend checking out GSoC to help you begin. 
+6. **Research** - Do research + get publications - will add a separate section for this
+7. **Internships** - Intern at company - will add a separate section for this
 ## Academics
 ### Classwork
 If your school offers any of the AP Computer Science courses, take it. I highly reccomend taking the most advanced math course you can. Email your counselors about dual enrollment possibilities. The earlier and more you take dual enrollment the faster you'll be able to go into the industry.
