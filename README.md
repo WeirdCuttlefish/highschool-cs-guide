@@ -19,7 +19,7 @@ There are usually two ways research is done: <br>
 ## Internships
 ## Summer Programs
 ### Preface
-I feel like these programs are super scary with how selective they are. At least that's how I felt. I decided to apply for one senior year and got in so it wasn't that bad I guess. <br> These programs all have varying due dates based on the year so I've linked their websites and you can do your own research. 
+I didn't even know that these kinds of summer programs existed until my junior year, after the due dates. Even then, most of these were relatively hidden from me. The selectivity of these programs as well as the application process would've been great practice for my college applications. However, I was pretty scared of applying due to how selective they were. I decided to apply for some my senior year and got in. My advice would be to just apply.
 ### All Years
 1. [**Google Summer of Code**](https://summerofcode.withgoogle.com/) - GSoC is a program designed to introduce contributing to open source projects - Online
 2. [**NASA**](https://intern.nasa.gov/) - Nasa Internship - Online and in-person options
