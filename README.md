@@ -11,7 +11,7 @@
 2. **Capture the Flags** - Use https://ctftime.org to find competitions - PicoCTF is a highschool only CTF hosted by CMU
 3. **Competitive Math** - AMC, ARML, AIME, USAMO, Math League, etc. 
 4. **International Science and Engineerin Fair (ISEF)** - Science fair, super prestigious
-5. **Open source contribution** - It's incredibly hard to get a commit, but if you can do it it's so big. I reccomend checking out GSoC to help you begin. 
+5. **Open source contribution** - Super prestigious to commit on a large repository. I reccomend checking out GSoC or some other "open-source mentorship" program to help you begin. 
 6. **Research** - Do research + get publications - will add a separate section for this
 7. **Internships** - Intern at company - will add a separate section for this
 ## Academics
